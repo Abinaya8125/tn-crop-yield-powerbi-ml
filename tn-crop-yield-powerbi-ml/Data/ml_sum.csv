@@ -1,0 +1,4 @@
+Crop,Districts,RMSE,MAE,R2,BaselineRMSE,ErrorReductionPct,Verdict
+Rice,36,0.43,0.335,0.273,0.519,17,Weak model
+Groundnut,35,0.653,0.537,0.221,0.762,14,Weak model
+Maize,27,1.611,1.127,-0.238,1.504,-7,No useful model
